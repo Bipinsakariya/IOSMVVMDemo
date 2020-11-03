@@ -1,0 +1,10 @@
+framework module KWVerificationCodeView {
+  umbrella header "KWVerificationCodeView-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module KWVerificationCodeView.__Swift {
+    exclude header "KWVerificationCodeView-Swift.h"
+}

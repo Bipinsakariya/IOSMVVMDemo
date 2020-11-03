@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "82cf11bba8f39d1cdc8dfbb494877d6d"
+build_time: [1601541917, 373257000]
+inputs:
+  "/Users/tagline13/Downloads/lottawins-Doron 2/Pods/ADCountryPicker/Source/ADCountry.swift": [1588840962, 0]
+  "/Users/tagline13/Downloads/lottawins-Doron 2/Pods/ADCountryPicker/Source/ADCountryPicker.swift": [1588840962, 0]

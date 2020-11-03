@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "cfc654d4f7c66c9ac3e06c9a665a738f"
+build_time: [1601541917, 373257000]
+inputs:
+  "/Users/tagline13/Downloads/lottawins-Doron 2/Pods/KWVerificationCodeView/KWVerificationCodeView/Classes/KWTextFieldView.swift": [1589364910, 0]
+  "/Users/tagline13/Downloads/lottawins-Doron 2/Pods/KWVerificationCodeView/KWVerificationCodeView/Classes/KWVerificationCodeView.swift": [1589364910, 0]
+  "/Users/tagline13/Downloads/lottawins-Doron 2/Pods/KWVerificationCodeView/KWVerificationCodeView/Classes/Extensions/StringExtension.swift": [1588840962, 0]
+  "/Users/tagline13/Downloads/lottawins-Doron 2/Pods/KWVerificationCodeView/KWVerificationCodeView/Classes/Extensions/UIViewExtension.swift": [1588840962, 0]

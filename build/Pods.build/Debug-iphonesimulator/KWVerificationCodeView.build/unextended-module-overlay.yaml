@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/tagline13/Downloads/lottawins-Doron 2/build/Debug-iphonesimulator/KWVerificationCodeView/KWVerificationCodeView.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/tagline13/Downloads/lottawins-Doron 2/build/Pods.build/Debug-iphonesimulator/KWVerificationCodeView.build/unextended-module.modulemap",
+    }]
+  }]
+}

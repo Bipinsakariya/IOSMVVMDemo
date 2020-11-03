@@ -1,0 +1,10 @@
+framework module ADCountryPicker {
+  umbrella header "ADCountryPicker-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module ADCountryPicker.__Swift {
+    exclude header "ADCountryPicker-Swift.h"
+}
