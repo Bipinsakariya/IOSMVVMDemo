@@ -1,7 +1,6 @@
-![smartData: Scaling Expectations in Swift](https://www.smartdatainc.com/wp-content/uploads/2018/09/logo.png)
 # iOSArchitecture_MVVM
 
-This repository contains a sample app that implements MVVM architecture with Swift 4.2 t kick start iOS project at smart Data.
+This repository contains a sample app that implements MVVM architecture with Swift 4.2 t kick start iOS project at Tagline.
 
 ## Architecture Defines Targets for:
         - iOSArchitecture_MVVM
